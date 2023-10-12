@@ -1,0 +1,6 @@
+{"cmake.configureSettings": {
+    "GTEST_MAIN_LIBRARY":"C:/Program Files/googletest-distribution/lib/gtest_main.lib",
+    "GTEST_LIBRARY": "C:/Program Files/googletest-distribution/lib/gtest.lib",
+    "GTEST_INCLUDE_DIR": "C:/Program Files/googletest-distribution/include"
+    }
+}
